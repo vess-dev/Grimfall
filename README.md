@@ -10,7 +10,7 @@ _"Surprised anybody'd want to tangle with you. Heck, you could go deathclaw hu
 Twice per session choose one of the following:
   - Push yourself for another talent without receiving a mark.
   - Gain bonus dice for a roll for every harm and two marks you have.
-  - Gain potency on any roll related to strength based actions.
+  - Gain potency on a single roll related to strength based actions.
 
 Growth - Every 2 levels, you can use Barbarian one more time per session.
 
@@ -38,7 +38,7 @@ Core Talent - Toughness
 _"I guess that explains how you're still alive. You're built solid as an oak."_
 
 Twice per session choose one of the following:
-  - Shrug off a new or old mark like it was nothing.
+  - Clear a harm or two marks from your character.
   - Ignore all thorns from harms, marks, and conditions for a roll.
   - Take a mark, harm, or condition, meant for someone else.
   
@@ -53,7 +53,7 @@ Core Talent - Smooth Talker
 _"Good to see them bullets didn't affect your charm none."_
 
 Twice per session choose one of the following:
-  - Convince someone of an at least partially believable lie with ease.
+  - Convince someone of an believable lie or truth with ease.
   - Get a perfect Reveal on the motivation and emotions of someone.
   - Persuade someone to put a price on something or lower their price.
   
@@ -85,7 +85,7 @@ _"Most patients don't get out of bed after being shot and then move like they wa
 Twice per session choose one of the following:
   - Remain completely undetected for a scene within reason.
   - Steal something from someone without being noticed.
-  - Gain potency on any roll related to agility based actions.
+  - Gain potency on a single roll related to agility based actions.
   
 Growth - Every 2 levels, you can use Infiltrator one more time per session.
 
